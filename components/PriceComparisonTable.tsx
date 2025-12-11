@@ -143,18 +143,27 @@ export default function PriceComparisonTable({ data }: PriceComparisonTableProps
                         }`}
                       >
                         {priceData?.available ? (
-                          <div>
+                          <div className="flex flex-col gap-1">
                             <div className={isLowestPrice ? 'text-green-700 dark:text-green-400' : ''}>
                               {formatPrice(priceData.price)}
                             </div>
-                            {priceData.productUrl && (
+                            {priceData.productUrl ? (
                               <a
                                 href={priceData.productUrl}
                                 target="_blank"
                                 rel="noopener noreferrer"
-                                className="text-xs text-blue-600 dark:text-blue-400 hover:underline"
+                                className="text-xs text-blue-600 dark:text-blue-400 hover:underline font-medium"
                               >
-                                View
+                                View →
+                              </a>
+                            ) : (
+                              <a
+                                href={retailer.website}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="text-xs text-gray-500 dark:text-gray-400 hover:underline"
+                              >
+                                Visit site
                               </a>
                             )}
                           </div>
