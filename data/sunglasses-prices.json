@@ -1,0 +1,213 @@
+{
+  "lastUpdated": "2025-12-11T12:00:00Z",
+  "retailers": [
+    {
+      "id": "sgh",
+      "name": "Sunglass Hut AU",
+      "website": "https://www.sunglasshut.com/au"
+    },
+    {
+      "id": "opsm",
+      "name": "OPSM",
+      "website": "https://www.opsm.com.au"
+    },
+    {
+      "id": "specsavers",
+      "name": "Specsavers",
+      "website": "https://www.specsavers.com.au"
+    },
+    {
+      "id": "clearly",
+      "name": "Clearly",
+      "website": "https://www.clearly.com.au"
+    },
+    {
+      "id": "bailey",
+      "name": "Bailey Nelson",
+      "website": "https://www.baileynelson.com.au"
+    },
+    {
+      "id": "oscar",
+      "name": "Oscar Wylee",
+      "website": "https://www.oscarwylee.com.au"
+    },
+    {
+      "id": "dresden",
+      "name": "Dresden Vision",
+      "website": "https://www.dresdenoptical.com.au"
+    },
+    {
+      "id": "smartbuy",
+      "name": "SmartBuyGlasses",
+      "website": "https://www.smartbuyglasses.com.au"
+    },
+    {
+      "id": "glassesdirect",
+      "name": "GlassesDirect",
+      "website": "https://www.glassesdirect.com.au"
+    },
+    {
+      "id": "eyebuy",
+      "name": "EyeBuyDirect",
+      "website": "https://www.eyebuydirect.com.au"
+    }
+  ],
+  "products": [
+    {
+      "product": {
+        "id": "rb-wayfarer-2140",
+        "brand": "Ray-Ban",
+        "model": "Wayfarer RB2140",
+        "sourceUrl": "https://www.sunglasshut.com/au/ray-ban/rb2140-805289126577"
+      },
+      "prices": {
+        "sgh": {
+          "available": true,
+          "price": 249.00,
+          "productUrl": "https://www.sunglasshut.com/au/ray-ban/rb2140-805289126577",
+          "lastUpdated": "2025-12-11T12:00:00Z"
+        },
+        "opsm": {
+          "available": true,
+          "price": 245.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data - needs manual collection"
+        },
+        "specsavers": {
+          "available": false,
+          "price": null,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Not available"
+        },
+        "clearly": {
+          "available": true,
+          "price": 239.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data - needs manual collection"
+        },
+        "bailey": {
+          "available": false,
+          "price": null,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Not stocked"
+        },
+        "oscar": {
+          "available": false,
+          "price": null,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Not stocked"
+        },
+        "dresden": {
+          "available": true,
+          "price": 249.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data - needs manual collection"
+        },
+        "smartbuy": {
+          "available": true,
+          "price": 235.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data - needs manual collection"
+        },
+        "glassesdirect": {
+          "available": false,
+          "price": null,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Not available"
+        },
+        "eyebuy": {
+          "available": true,
+          "price": 229.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data - needs manual collection"
+        }
+      }
+    },
+    {
+      "product": {
+        "id": "rb-aviator-3025",
+        "brand": "Ray-Ban",
+        "model": "Aviator RB3025",
+        "sourceUrl": "https://www.sunglasshut.com/au/ray-ban/rb3025-805289602057"
+      },
+      "prices": {
+        "sgh": {
+          "available": true,
+          "price": 229.00,
+          "productUrl": "https://www.sunglasshut.com/au/ray-ban/rb3025-805289602057",
+          "lastUpdated": "2025-12-11T12:00:00Z"
+        },
+        "opsm": {
+          "available": true,
+          "price": 225.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data"
+        },
+        "specsavers": {
+          "available": true,
+          "price": 219.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data"
+        },
+        "clearly": {
+          "available": true,
+          "price": 229.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data"
+        },
+        "bailey": {
+          "available": false,
+          "price": null,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z"
+        },
+        "oscar": {
+          "available": false,
+          "price": null,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z"
+        },
+        "dresden": {
+          "available": true,
+          "price": 229.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data"
+        },
+        "smartbuy": {
+          "available": true,
+          "price": 215.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data"
+        },
+        "glassesdirect": {
+          "available": true,
+          "price": 210.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data"
+        },
+        "eyebuy": {
+          "available": true,
+          "price": 209.00,
+          "productUrl": null,
+          "lastUpdated": "2025-12-11T12:00:00Z",
+          "notes": "Sample data"
+        }
+      }
+    }
+  ]
+}
